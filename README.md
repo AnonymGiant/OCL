@@ -1,7 +1,7 @@
-# MiCL
+# Occluded Contrastive Learning for Self-supervised Pre-training
 
 
-This repository is a PyTorch implementation of the *Masked Image Contrastive Learning for Efficient Visual Conceptual Pre-training* (submitted)
+This repository is a PyTorch implementation of the *One Leaf Reveals the Season: Occlusion-Based Contrastive Learning with Semantic-Aware Views for Efficient Visual Representation* (submitted)
 
 ![workflow](./imgs/workflow.png)
 
